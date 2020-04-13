@@ -1,0 +1,5 @@
+4/13/2020
+Overview of syllabus.
+Olga LOVES relative paths.
+Doctypes http://webdesignbyolga.com/central-web110-doc.php
+Went of basic syntax and basic tags. 
