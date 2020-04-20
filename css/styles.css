@@ -4,6 +4,7 @@ h1{
     width:940px;
 }
 .header{
+    margin:0 auto;
     font-size: 300%;
     border-radius: 10px;
     border-style: solid;
@@ -13,14 +14,16 @@ h1{
     font-size: 40px;
 }
 body{
+    width:940px;
+    margin: auto;
     background-color:whitesmoke;
 }
-.wrapper1{
+.leftcolumn{
     float: left;
     width: 620px;
     margin:0 auto 0 auto;
 }
-.wrapper2{
+.rightcolumn{
     float:right;
     width:320px;
 }
