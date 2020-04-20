@@ -1,31 +1,69 @@
 <style>
 h1{
     color: black;
-    font-size:250%;
-    text-align: left;
+    width:940px
+}
+.header{
+    font-size: 300%;
+    border-style: solid;
+    border-color: black;
+}
+.header2{
+    font-size: 40px;
 }
 body{
-    background-color:whitesmoke
+    background-color:whitesmoke;
+}
+.wrapper1{
+    float: left;
+    width: 620px;
+    margin:0 auto 0 auto;
+}
+.wrapper2{
+    float:right;
+    width:320px;
+}
+    
 }
 <p>{
-    text-align-last: right;
-    font-family: fantasy;
-    font-size: 12;
+}
+.p1{
+    font-size: 20px;
+    align-content: left;
+    width:100%;
+    }
+.p2{
+    font-size:20px;
+    width:100%;
 }
 img {
-        border-radius: 8px;
-        align-content: right;
     }
-.right{
-    float: right;
-    margin-left: auto;
-    margin-right: auto;
-    width: 25%;
-    height: 50%;
+.image1{
+    border-radius: 10px;
+    border-style: solid;
+    border-color:black;
+    width: 300px;
+}
+.cats{
+    width:300px;
+    border-style: solid;
+    border-radius: 10px;
+}
+h3{
+    font-size: 200%;
+    
+}
+.validator{
+    float:left;
+    
+}
+.list1{
+    font-size: 125%;
 }
 
 a:link{
-    color:gray;
+    align-items: left;
+    color: grey;
 }
 a:hover{
     color:blue;
