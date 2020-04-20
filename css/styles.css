@@ -15,19 +15,16 @@ h1{
 }
 body{
     width:940px;
-    margin: auto;
+    margin:0 auto;
     background-color:whitesmoke;
 }
 .leftcolumn{
     float: left;
     width: 620px;
-    margin:0 auto 0 auto;
 }
 .rightcolumn{
     float:right;
     width:320px;
-}
-    
 }
 <p>{
 }
