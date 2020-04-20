@@ -28,7 +28,7 @@ a:link{
     color:gray;
 }
 a:hover{
-    color:black;
+    color:blue;
     background-color: transparent;
     text-decoration: underline;
 }
