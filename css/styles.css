@@ -1,10 +1,11 @@
 <style>
 h1{
     color: black;
-    width:940px
+    width:940px;
 }
 .header{
     font-size: 300%;
+    border-radius: 10px;
     border-style: solid;
     border-color: black;
 }
@@ -34,7 +35,7 @@ body{
     }
 .p2{
     font-size:20px;
-    width:100%;
+    width:310;
 }
 img {
     }
@@ -42,10 +43,10 @@ img {
     border-radius: 10px;
     border-style: solid;
     border-color:black;
-    width: 300px;
+    width: 310px;
 }
 .cats{
-    width:300px;
+    width:310px;
     border-style: solid;
     border-radius: 10px;
 }
