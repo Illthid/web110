@@ -1,11 +1,11 @@
-<style>
+
 h1{
     color: black;
     width:940px;
 }
 .header{
     margin:0 auto;
-    font-size: 300%;
+    font-size: 60px;
     border-radius: 10px;
     border-style: solid;
     border-color: black;
@@ -24,41 +24,27 @@ body{
 }
 .rightcolumn{
     float:right;
-    width:320px;
+    max-width:320px;
+    
 }
-<p>{
-}
-.p1{
-    font-size: 20px;
-    align-content: left;
-    width:100%;
-    }
-.p2{
-    font-size:20px;
-    width:310;
+p{
+ font-size: 21px;
 }
 img {
-    }
-.image1{
     border-radius: 10px;
     border-style: solid;
-    border-color:black;
+    border-color: black;
+    }
+#me{
     width: 310px;
 }
-.cats{
+#cats{
     width:310px;
-    border-style: solid;
-    border-radius: 10px;
 }
 h3{
-    font-size: 200%;
-    
+    font-size: 30px;
 }
-.validator{
-    float:left;
-    
-}
-.list1{
+#list1{
     font-size: 125%;
 }
 
@@ -71,4 +57,3 @@ a:hover{
     background-color: transparent;
     text-decoration: underline;
 }
-<style>
