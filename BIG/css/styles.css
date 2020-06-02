@@ -1,0 +1,128 @@
+body{
+    background-image: url(http://central.mystudentswa.com/davidba/web110/BIG/images/background.jpg);
+    background-repeat:repeat;
+    background-size: 50%;
+    font-family:Verdana, Geneva, sans-serif;
+}
+header{
+    position: fixed;
+    top:0;
+    width:100%;
+    padding: 10px 0 0px 0;
+    background:rgba(255,255,255, .94);
+}
+.header-inner{
+    margin:0px auto;
+    padding-top:10px;
+    padding-bottom:0;
+    width:940px;
+}
+#logo{
+    display:inline;
+}
+#nav{
+    background:black;
+    height: 50px;
+    line-height: 50px; 
+}
+#nav ul{
+    width:1000px;
+    margin: 0 auto;
+}
+#nav li{
+    font-weight: bold;
+    float: left;
+    list-style-type: none;
+    width:20%;
+    text-align: center;
+}
+#nav a{
+    text-decoration: none;
+    color: red;
+    display: block;
+}
+.wrapper{
+    margin:185px auto 20px auto;
+    width:940px;
+    background: rgba(255,255,255, .90);
+    overflow: hidden;
+}
+h1,h2,h3{
+    color:red;
+    padding-left: 10px;
+}
+h1{
+    text-align: center;
+}
+h2{
+    margin: 5px;
+}
+.main{
+    padding:5px;
+    width:574px;
+    float: left;
+    padding-bottom:50px;
+}
+#Big{
+    padding-right: 5px;
+    float:left;
+    height: 200px;
+    width: 200px;
+}
+p{
+    line-height: 20px;
+    margin-top: 0;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+aside{
+    padding:5px;
+    width:330px;
+    float:right;
+    background:beige;
+    border-style: dotted;
+    
+}
+#racer{
+    float:right;
+    height: 200px;
+    width: 200px;
+}
+#old{
+    padding-left: 5px;
+    float:right;
+    height: 200px;
+    width: 200px;
+}
+footer{
+    width:920px;
+    height: 50px;
+    line-height: 50px;
+    background: #ddd;
+    padding-left: 20px;
+    font-size: .75em;
+    color:#666;
+    clear:both;
+/*    padding-bottom: 20px;*/
+}
+footer li{
+    float:left;
+    list-style-type: none;
+    margin-right: 30px;
+}
+footer a {
+    color:#666;
+}
+img{
+    padding:0px;
+    border-style: solid;
+    border-color: black;
+    margin: 5px;
+}
+#bigPic{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:800px;
+    height: 800px;
+}
